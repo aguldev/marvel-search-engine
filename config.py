@@ -1,2 +1,2 @@
-public_key = "1f4b68e9e5c6529ab5368ba97551637c"
-private_key = "70626a961165a6f62d6fb55756c5ddac5f5405c1"
+public_key = "XXXX"
+private_key = "XXXX"
